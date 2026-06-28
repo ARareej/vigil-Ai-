@@ -1,4 +1,4 @@
-streamlit run app/streamlit_app.ppandas
+streamlit 
 numpy
 scikit-learn
 torch
